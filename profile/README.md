@@ -25,9 +25,9 @@ Narrowlink consists of three main components: the client, the agent, and the ser
 <img src="https://github.com/narrowlink/docs/blob/main/docs/assets/Diagram.svg" width="50%" height="50%" alt="Narrowlink Logo">
 </p>
 
-1.  **Server**: The server acts as a central hub, managing user accounts, routing client requests, and handling HTTP traffic. It requires internet access and serves as a bridge between agents and clients.
-2.  **Agent**: The agent, located on the destination side, establishes a connection with the server. It can operate in both restricted and normal network environments, serving as the endpoint for incoming client requests.
-3.  **Client**: The client initiates a connection request to access resources behind restricted networks. It connects to the agent through the server, enabling secure and efficient communication.
+-  **Server**: The server acts as a central hub, managing user accounts, routing client requests, and handling HTTP traffic. It requires internet access and serves as a bridge between agents and clients.
+-  **Agent**: The agent, located on the destination side, establishes a connection with the server. It can operate in both restricted and normal network environments, serving as the endpoint for incoming client requests.
+-  **Client**: The client initiates a connection request to access resources behind restricted networks. It connects to the agent through the server, enabling secure and efficient communication.
 
 The server plays a crucial role in managing users, routing requests, and handling HTTP traffic. This architecture allows for flexible deployment scenarios, accommodating agents and clients in different network configurations while ensuring connectivity and security.
     
