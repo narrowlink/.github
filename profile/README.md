@@ -8,6 +8,7 @@ Narrowlink is a versatile and secure bidirectional reverse proxy server tool tha
 
 -   **Seamless Connectivity**: Enjoy low-latency connections between network nodes with support for both TCP and UDP protocols.
 -   **Share Internet Access**: Narrowlink's SOCKS protocol support allows you to share internet access with machines in highly restricted network configurations.
+-   **Access Control**: Implement fine-grained access control policies to regulate and restrict remote resource access.
 -   **Publish Webservers**: Easily publish webservers behind restrictive network configurations, granting secure access to web content over the internet.
 -   **Automatic TLS Certificate Management**: Narrowlink takes care of TLS certificate management for secure and encrypted communication.
 -   **Privacy and Security**: Your data is protected with end-to-end encryption using XChaCha20, ensuring confidentiality. Data signing with HMAC-SHA256 enhances security.
