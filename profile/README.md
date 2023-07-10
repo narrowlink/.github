@@ -23,7 +23,7 @@ Narrowlink is a versatile and secure bidirectional reverse proxy server tool tha
 Narrowlink consists of three main components: the client, the agent, and the server.
 
 <p align="center">
-<img src="https://github.com/narrowlink/docs/blob/main/docs/assets/Diagram.svg" width="50%" height="50%" alt="Narrowlink Logo">
+<img src="https://github.com/narrowlink/docs/blob/main/docs/assets/Diagram.svg" width="80%" height="80%" alt="Narrowlink Logo">
 </p>
 
 -  **Server**: The server acts as a central hub, managing user accounts, routing client requests, and handling HTTP traffic. It requires internet access and serves as a bridge between agents and clients.
